@@ -8,7 +8,7 @@
 
 # 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒
 <p align="left">
-  <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsxMHltYzlxZ2ttNGl3bWEza21oYjJ1d2F6N3B5NWk0NW1pNzBmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oHfFq0PRHCBdng7wZ3/giphy.gif" width="180"/>
+  <img align="left" [src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsxMHltYzlxZ2ttNGl3bWEza21oYjJ1d2F6N3B5NWk0NW1pNzBmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oHfFq0PRHCBdng7wZ3/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p6anVuazVudnVqcGFrNWVmaWxmdGQ5cWMxMW15c3U4enBxYjlxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfs4oYgUCVYac6dVL9/giphy.gif)" width="180"/>
 </p>
 
 
