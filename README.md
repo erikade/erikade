@@ -12,13 +12,13 @@
     align="left" 
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTgzcXhnNzk5d2Nqdms3M2ZlaXZqdG0yNDkycGN5NXlsZmJ4Z3E1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExehcWfCAs94fQY/giphy.gif" 
     width="170"
-    style="margin-right: 30px;"
+    style="margin-right: 40px;"
   />
 </p>
 
 <div align="justify">
 
-&nbsp;&nbsp;&nbsp;&nbsp;𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒂𝒏𝒅 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓. 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚, 𝑳𝒊𝒏𝒖𝒙, 𝒂𝒏𝒅 𝒔𝒚𝒔𝒕𝒆𝒎 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕. 𝑰 𝒂𝒎 𝒂𝒍𝒘𝒂𝒚𝒔 𝒔𝒆𝒆𝒌𝒊𝒏𝒈 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 𝒎𝒐𝒓𝒆 𝒂𝒏𝒅 𝒊𝒎𝒑𝒓𝒐𝒗𝒆 &nbsp;&nbsp;&nbsp;&nbsp;𝒎𝒚 𝒔𝒌𝒊𝒍𝒍𝒔 𝒕𝒐 𝒃𝒖𝒊𝒍𝒅 𝒂 𝒔𝒕𝒓𝒐𝒏𝒈 𝒄𝒂𝒓𝒆𝒆𝒓 𝒊𝒏 𝒕𝒉𝒆 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒇𝒊𝒆𝒍𝒅.
+&nbsp;&nbsp;&nbsp;&nbsp;𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒂𝒏𝒅 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓. 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚, 𝑳𝒊𝒏𝒖𝒙, 𝒂𝒏𝒅 𝒔𝒚𝒔𝒕𝒆𝒎 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕. 𝑰 𝒂𝒎 𝒂𝒍𝒘𝒂𝒚𝒔 𝒔𝒆𝒆𝒌𝒊𝒏𝒈 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 𝒎𝒐𝒓𝒆 𝒂𝒏𝒅 𝒊𝒎𝒑𝒓𝒐𝒗𝒆 𝒎𝒚 𝒔𝒌𝒊𝒍𝒍𝒔 𝒕𝒐 𝒃𝒖𝒊𝒍𝒅 𝒂 𝒔𝒕𝒓𝒐𝒏𝒈 𝒄𝒂𝒓𝒆𝒆𝒓 𝒊𝒏 𝒕𝒉𝒆 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒇𝒊𝒆𝒍𝒅.
 
 <br><br>
 
