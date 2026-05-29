@@ -1,5 +1,7 @@
 
 
+
+
 <img src="https://media.tenor.com/6lM0qS4J8n0AAAAC/bela-resident-evil.gif" width="100%"/>
 
 <img width="1080" height="287" alt="image" src="https://github.com/user-attachments/assets/38a4668c-f9c2-45af-a497-7813a1709766" />
@@ -17,8 +19,6 @@
 <td width="60%">
 
 # 𝑵𝒂𝒎𝒂𝒔𝒕𝒆 🙏 𝒊´𝒎 𝑬́𝒓𝒊𝒌𝒂 𝑫𝒆𝒍𝒍𝒂𝒈𝒏𝒐𝒍𝒐
-<img src="https://media.tenor.com/6lM0qS4J8n0AAAAC/bela-resident-evil.gif" width="100%"/>
-
 💻 Software Engineering Student  
 🐧 Linux Enthusiast  
 ⚡ Backend Developer  
