@@ -4,16 +4,21 @@
 
 # 𝓝𝓪𝓶𝓪𝓼𝓽𝓮 🙏  𝓲´𝓶 𝓔𝓻𝓲𝓴𝓪 𝓓𝓮𝓵𝓵𝓪𝓰𝓷𝓸𝓵𝓸
 
+<div align="center">
+
 # 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒
 
 </div>
 
-<p align="center">
-  <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTgzcXhnNzk5d2Nqdms3M2ZlaXZqdG0yNDkycGN5NXlsZmJ4Z3E1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExehcWfCAs94fQY/giphy.gif" 
-    width="170"
-  />
-</p>
+<table align="center">
+<tr>
+<td width="30%">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTgzcXhnNzk5d2Nqdms3M2ZlaXZqdG0yNDkycGN5NXlsZmJ4Z3E1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExehcWfCAs94fQY/giphy.gif" width="220"/>
+
+</td>
+
+<td width="70%">
 
 <div align="center">
 
@@ -21,16 +26,25 @@
 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚, 𝑳𝒊𝒏𝒖𝒙, 𝒂𝒏𝒅 𝒔𝒚𝒔𝒕𝒆𝒎 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.  
 𝑰 𝒂𝒎 𝒂𝒍𝒘𝒂𝒚𝒔 𝒔𝒆𝒆𝒌𝒊𝒏𝒈 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 𝒎𝒐𝒓𝒆 𝒂𝒏𝒅 𝒊𝒎𝒑𝒓𝒐𝒗𝒆 𝒎𝒚 𝒔𝒌𝒊𝒍𝒍𝒔 𝒕𝒐 𝒃𝒖𝒊𝒍𝒅 𝒂 𝒔𝒕𝒓𝒐𝒏𝒈 𝒄𝒂𝒓𝒆𝒆𝒓 𝒊𝒏 𝒕𝒉𝒆 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒇𝒊𝒆𝒍𝒅.
 
-<br>
+<br><br>
 
 𝑰 𝒉𝒂𝒗𝒆 𝒃𝒆𝒆𝒏 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝒔𝒊𝒏𝒄𝒆 𝑰 𝒘𝒂𝒔 15 𝒚𝒆𝒂𝒓𝒔 𝒐𝒍𝒅,  
-𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒊𝒏𝒈 𝒘𝒆𝒃𝒔𝒊𝒕𝒆𝒔, 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔, 𝒂𝒏𝒅 𝒈𝒂𝒎𝒆𝒔 𝒘𝒉𝒊𝒍𝒆 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒍𝒚 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝒏𝒆𝒘 𝒊𝒅𝒆𝒂𝒔  
-𝒂𝒏𝒅 𝒕𝒖𝒓𝒏𝒊𝒏𝒈 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚 𝒊𝒏𝒕𝒐 𝒓𝒆𝒂𝒍 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.  
+𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒊𝒏𝒈 𝒘𝒆𝒃𝒔𝒊𝒕𝒆𝒔, 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔, 𝒂𝒏𝒅 𝒈𝒂𝒎𝒆𝒔  
+𝒘𝒉𝒊𝒍𝒆 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒍𝒚 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝒏𝒆𝒘 𝒊𝒅𝒆𝒂𝒔  
+𝒂𝒏𝒅 𝒕𝒖𝒓𝒏𝒊𝒏𝒈 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚 𝒊𝒏𝒕𝒐 𝒓𝒆𝒂𝒍 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
+
+<br><br>
+
 𝑰 𝒆𝒏𝒋𝒐𝒚 𝒄𝒉𝒂𝒍𝒍𝒆𝒏𝒈𝒆𝒔, 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒏𝒆𝒘 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔,  
 𝒂𝒏𝒅 𝒄𝒐𝒏𝒕𝒊𝒏𝒖𝒐𝒖𝒔𝒍𝒚 𝒄𝒓𝒆𝒂𝒕𝒊𝒏𝒈 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒏𝒆𝒘.
 
 </div>
 
+</td>
+</tr>
+</table>
+
+---
 ---
 
 <div align="center">
