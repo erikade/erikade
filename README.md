@@ -7,7 +7,7 @@
 
 </div>
 
-#<div align="center">
+<div align="center">
 
 # 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒
 
