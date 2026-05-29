@@ -7,10 +7,11 @@
 <div align="center">
 
 
-# 𝑵𝒂𝒎𝒂𝒔𝒕𝒆 🙏 𝒊´𝒎 𝑬́𝒓𝒊𝒌𝒂 𝑫𝒆𝒍𝒍𝒂𝒈𝒏𝒐𝒍𝒐
-# 🧠 About Me
+# 𝕹𝖆𝖒𝖆𝖘𝖙𝖊 🙏 𝖎´𝖒 𝕰𝖗𝖎𝖐𝖆 𝕯𝖊𝖑𝖑𝖆𝖌𝖓𝖔𝖑𝖔 𝕸𝖔𝖗𝖆𝖎𝖘
+
 
 <p align="left">
+  # 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊
   <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsxMHltYzlxZ2ttNGl3bWEza21oYjJ1d2F6N3B5NWk0NW1pNzBmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oHfFq0PRHCBdng7wZ3/giphy.gif" width="180"/>
 </p>
 
