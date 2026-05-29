@@ -83,7 +83,7 @@
 
 # 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
 
-<a href="https://linkedin.com/in/SEULINK">
+<a href="https://linkedin.com/in/www.linkedin.com/in/erikadellagnolo">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
