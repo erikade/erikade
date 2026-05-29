@@ -9,7 +9,7 @@
 
 # 𝓝𝓪𝓶𝓪𝓼𝓽𝓮 🙏  𝓲´𝓶 𝓔𝓻𝓲𝓴𝓪 𝓓𝓮𝓵𝓵𝓪𝓰𝓷𝓸𝓵𝓸
 
-# 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
+# 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒
 <p align="left">
   <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsxMHltYzlxZ2ttNGl3bWEza21oYjJ1d2F6N3B5NWk0NW1pNzBmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oHfFq0PRHCBdng7wZ3/giphy.gif" width="180"/>
 </p>
@@ -29,7 +29,7 @@
 ---
 
 
-# Tech Stack
+# 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 ---
 
 
-# GitHub Streak
+# 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒓𝒆𝒂𝒌
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 ---
 
-# Tools I Use
+# 𝑻𝒐𝒐𝒍𝒔 𝑰 𝑼𝒔𝒆
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-# Contribution Graph
+# 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏 𝑮𝒓𝒂𝒑𝒉
 
 <div align="center">
 
@@ -71,7 +71,7 @@
 
 ---
 
-# Connect With Me
+# 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
 
 <div align="center">
 
