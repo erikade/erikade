@@ -2,10 +2,13 @@
 <!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRsYmMzb28weXB3eDgwbW52eXZ6MjFxZHozc2xraTh4dHVncXI5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3O4r4NZkFIbSLINbX2/giphy.gif" width="50%"/> -->
 
 <img width="1080" height="287" alt="image" src="https://github.com/user-attachments/assets/38a4668c-f9c2-45af-a497-7813a1709766" />
+<div align="center">
 
-𝑵𝒂𝒎𝒂𝒔𝒕𝒆 🙏 𝒊´𝒎 𝑬́𝒓𝒊𝒌𝒂 𝑫𝒆𝒍𝒍𝒂𝒈𝒏𝒐𝒍𝒐
+# 𝑵𝒂𝒎𝒂𝒔𝒕𝒆 🙏 𝒊´𝒎 𝑬́𝒓𝒊𝒌𝒂 𝑫𝒆𝒍𝒍𝒂𝒈𝒏𝒐𝒍𝒐
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ff88&height=2"/>
 
+</div>
 
 # Tech Stack
 
