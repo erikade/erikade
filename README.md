@@ -7,11 +7,12 @@
 <div align="center">
 
 
+# 𝑵𝒂𝒎𝒂𝒔𝒕𝒆 🙏 𝒊´𝒎 𝑬́𝒓𝒊𝒌𝒂 𝑫𝒆𝒍𝒍𝒂𝒈𝒏𝒐𝒍𝒐
 <p align="left">
   <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsxMHltYzlxZ2ttNGl3bWEza21oYjJ1d2F6N3B5NWk0NW1pNzBmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oHfFq0PRHCBdng7wZ3/giphy.gif" width="180"/>
 </p>
 
-# 𝑵𝒂𝒎𝒂𝒔𝒕𝒆 🙏 𝒊´𝒎 𝑬́𝒓𝒊𝒌𝒂 𝑫𝒆𝒍𝒍𝒂𝒈𝒏𝒐𝒍𝒐
+
 
 💻 Software Engineering Student  
 🐧 Linux Enthusiast  
