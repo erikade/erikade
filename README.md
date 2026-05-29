@@ -5,7 +5,6 @@
 
 # 𝓝𝓪𝓶𝓪𝓼𝓽𝓮 🙏  𝓲´𝓶 𝓔𝓻𝓲𝓴𝓪 𝓓𝓮𝓵𝓵𝓪𝓰𝓷𝓸𝓵𝓸
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0f0f,100:1a1a1a&section=header"/>
 
 # 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒
 <p align="left">
