@@ -3,6 +3,8 @@
 
 <img width="1080" height="287" alt="image" src="https://github.com/user-attachments/assets/38a4668c-f9c2-45af-a497-7813a1709766" />
 
+Namaste 🙏 i´m Érika Dellagnolo
+
 
 
 # ⚔️ Tech Stack
@@ -11,21 +13,11 @@
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,nodejs,react,mysql,git,github,linux,vscode,figma" />
 
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
+
 
 # 🔥 GitHub Streak
 
@@ -34,15 +26,6 @@
 <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 🚀 Current Projects
-
-🧠 Sistema voltado para saúde mental
-🎮 Desenvolvimento de jogos no Roblox Studio
-🐧 Estudos avançados em Linux
-⚡ Projetos Full Stack e Backend
 
 ---
 
