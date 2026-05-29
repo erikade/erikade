@@ -2,23 +2,26 @@
 
 
 
-<img src="https://media.tenor.com/6lM0qS4J8n0AAAAC/bela-resident-evil.gif" width="100%"/>
 
 <img width="1080" height="287" alt="image" src="https://github.com/user-attachments/assets/38a4668c-f9c2-45af-a497-7813a1709766" />
 <div align="center">
 
 
+<table>
 <tr>
 
 <td width="40%">
 
-<img src="https://media.giphy.com/media/3O4r4NZkFIbSLINbX2/giphy.gif" width="100%"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsxMHltYzlxZ2ttNGl3bWEza21oYjJ1d2F6N3B5NWk0NW1pNzBmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oHfFq0PRHCBdng7wZ3/giphy.gif" width="100%"/>
 
 </td>
 
 <td width="60%">
 
 # 𝑵𝒂𝒎𝒂𝒔𝒕𝒆 🙏 𝒊´𝒎 𝑬́𝒓𝒊𝒌𝒂 𝑫𝒆𝒍𝒍𝒂𝒈𝒏𝒐𝒍𝒐
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2"/>
+
 💻 Software Engineering Student  
 🐧 Linux Enthusiast  
 ⚡ Backend Developer  
@@ -37,7 +40,7 @@
 </td>
 
 </tr>
-
+</table>
 
 
 
