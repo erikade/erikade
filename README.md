@@ -14,10 +14,8 @@
 
 
 
-💻 Software Engineering Student  
-🐧 Linux Enthusiast  
-⚡ Backend Developer  
-
+Software Engineering student and Back-end developer. Passionate about technology, Linux, and system development, I am always seeking to learn more and improve my skills to build a strong career in the technology field.
+I have been programming since I was 15 years old, developing websites, applications, and games while constantly exploring new ideas and turning creativity into real projects. I enjoy challenges, learning new technologies, and continuously creating something new.
 
 <br clear="left"/>
 
