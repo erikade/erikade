@@ -86,12 +86,4 @@
 
 ---
 
-<div align="center">
-
-### ⚡ “Building systems beyond the screen.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff88&height=120&section=footer"/>
-
-</div>
-```
 
