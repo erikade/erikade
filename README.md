@@ -17,7 +17,7 @@
 
 # 𝑵𝒂𝒎𝒂𝒔𝒕𝒆 🙏 𝒊´𝒎 𝑬́𝒓𝒊𝒌𝒂 𝑫𝒆𝒍𝒍𝒂𝒈𝒏𝒐𝒍𝒐
 
-<img src="https://media.tenor.com/6lM0qS4J8n0AAAAC/bela-resident-evil.gif" width="100%"/>
+<img src="https://media.tenor.com/images/5f7cbf0e1c4c1d8d65a4c4c8f2f63a7f/tenor.gif" width="100%"/>
 
 💻 Software Engineering Student  
 🐧 Linux Enthusiast  
