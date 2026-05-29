@@ -8,9 +8,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0f0f,100:1a1a1a&section=header"/>
 
 # 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒
-
 <p align="left">
-  <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdnbnUxazlpYXhzbzYxZzZkZ2VpazdtMWJ6cXcydGs5eGxxdjRiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/inzqXUJumB3KHQtevN/giphy.gif" width="300"/>
+  <img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTgzcXhnNzk5d2Nqdms3M2ZlaXZqdG0yNDkycGN5NXlsZmJ4Z3E1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExehcWfCAs94fQY/giphy.gif" width="300"/>
+</p>
 
 </p>
 
