@@ -7,16 +7,9 @@
 <div align="center">
 
 
-<table>
-<tr>
+<div align="center">
 
-<td width="40%">
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsxMHltYzlxZ2ttNGl3bWEza21oYjJ1d2F6N3B5NWk0NW1pNzBmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oHfFq0PRHCBdng7wZ3/giphy.gif" width="100%"/>
-
-</td>
-
-<td width="60%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsxMHltYzlxZ2ttNGl3bWEza21oYjJ1d2F6N3B5NWk0NW1pNzBmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oHfFq0PRHCBdng7wZ3/giphy.gif" width="350"/>
 
 # 𝑵𝒂𝒎𝒂𝒔𝒕𝒆 🙏 𝒊´𝒎 𝑬́𝒓𝒊𝒌𝒂 𝑫𝒆𝒍𝒍𝒂𝒈𝒏𝒐𝒍𝒐
 
@@ -27,20 +20,17 @@
 ⚡ Backend Developer  
 🎮 Roblox Studio Developer  
 
+</div>
+
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
 - Estudando Engenharia de Software
 - Apaixonada por tecnologia e Linux
 - Criando projetos e jogos
 - Aprendendo Backend e IA
 - Futuramente construir minha startup
-
-</td>
-
-</tr>
-</table>
 
 
 
