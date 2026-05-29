@@ -6,6 +6,8 @@
 
 # 𝑵𝒂𝒎𝒂𝒔𝒕𝒆 🙏 𝒊´𝒎 𝑬́𝒓𝒊𝒌𝒂 𝑫𝒆𝒍𝒍𝒂𝒈𝒏𝒐𝒍𝒐
 
+<img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/eb00c594-f21c-486f-9135-9bcc14127cab" />
+
 
 
 </div>
