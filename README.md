@@ -1,5 +1,6 @@
 
 
+<img src="https://media.tenor.com/6lM0qS4J8n0AAAAC/bela-resident-evil.gif" width="100%"/>
 
 <img width="1080" height="287" alt="image" src="https://github.com/user-attachments/assets/38a4668c-f9c2-45af-a497-7813a1709766" />
 <div align="center">
