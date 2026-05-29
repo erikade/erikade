@@ -1,6 +1,8 @@
 Namaste 
 
-<img width="900" height="384" alt="image" src="https://github.com/user-attachments/assets/ece40f7a-6584-4414-ab79-9e6b6ab8db0e" />
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/ac1ecf3a-1f10-4356-aa38-84d385428acb" />
+
+
 
 
 
