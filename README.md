@@ -9,7 +9,7 @@
 
 <td width="40%">
 
-<img src="[https://media.giphy.com/media/3O4r4NZkFIbSLINbX2/giphy.gif](https://tenor.com/pt-BR/view/bela-resident-evil-resident-evil-village-gif-168625333738473037)" width="100%"/>
+<img src="https://media.giphy.com/media/3O4r4NZkFIbSLINbX2/giphy.gif" width="100%"/>
 
 </td>
 
@@ -38,7 +38,6 @@
 
 </tr>
 </table>
-
 
 
 
