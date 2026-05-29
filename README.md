@@ -3,11 +3,11 @@
 
 <img width="1080" height="287" alt="image" src="https://github.com/user-attachments/assets/38a4668c-f9c2-45af-a497-7813a1709766" />
 
-Namaste 🙏 i´m Érika Dellagnolo
+𝑵𝒂𝒎𝒂𝒔𝒕𝒆 🙏 𝒊´𝒎 𝑬́𝒓𝒊𝒌𝒂 𝑫𝒆𝒍𝒍𝒂𝒈𝒏𝒐𝒍𝒐
 
 
 
-# ⚔️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -19,7 +19,7 @@ Namaste 🙏 i´m Érika Dellagnolo
 ---
 
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <div align="center">
 
@@ -29,7 +29,7 @@ Namaste 🙏 i´m Érika Dellagnolo
 
 ---
 
-# 🛠 Tools I Use
+# Tools I Use
 
 <div align="center">
 
@@ -39,7 +39,7 @@ Namaste 🙏 i´m Érika Dellagnolo
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -49,7 +49,7 @@ Namaste 🙏 i´m Érika Dellagnolo
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <div align="center">
 
