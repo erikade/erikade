@@ -14,6 +14,7 @@
     align="left" 
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTgzcXhnNzk5d2Nqdms3M2ZlaXZqdG0yNDkycGN5NXlsZmJ4Z3E1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExehcWfCAs94fQY/giphy.gif" 
     width="170"
+    style="margin-right: 30px;"
   />
 </p>
 
