@@ -5,27 +5,6 @@
 
 
 
-
-💻 Atualmente cursando:
-
-* Técnico em Programação
-* Engenharia de Software
-
-🚀 Áreas que estudo:
-
-* Desenvolvimento Web
-* Backend
-* Linux
-* Inteligência Artificial
-* Desenvolvimento de Jogos
-* Roblox Studio
-
-🎯 Objetivo:
-
-> Transformar ideias em projetos reais e construir minha própria startup.
-
----
-
 # ⚔️ Tech Stack
 
 <div align="center">
@@ -64,26 +43,6 @@
 🎮 Desenvolvimento de jogos no Roblox Studio
 🐧 Estudos avançados em Linux
 ⚡ Projetos Full Stack e Backend
-
----
-
-# 🌌 Learning
-
-```python
-class Erika:
-    def __init__(self):
-        self.learning = [
-            "Backend Development",
-            "Software Engineering",
-            "Linux",
-            "Artificial Intelligence",
-            "Cybersecurity",
-            "Game Development"
-        ]
-
-    def future(self):
-        return "Building something big..."
-```
 
 ---
 
