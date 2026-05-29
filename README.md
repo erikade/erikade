@@ -81,19 +81,7 @@
 
 <div align="center">
 
-# 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/erikadellagnolo">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:SEUEMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/SEUUSUARIO">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
 
 </div>
 
