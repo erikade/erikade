@@ -10,7 +10,8 @@
 # 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒
 
 <p align="left">
-  <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXgyaTZnY2d2YXp0cGpndHZqMXZzc3VnZm1tbWN3M3p5Z283OXZydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yMeWb71QlszXg70gZj/giphy.gif" width="160"/>
+  <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdnbnUxazlpYXhzbzYxZzZkZ2VpazdtMWJ6cXcydGs5eGxxdjRiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/inzqXUJumB3KHQtevN/giphy.gif" width="100"/>
+
 </p>
 
 <div align="justify">
@@ -20,16 +21,6 @@
 <br>
 
 𝑰 𝒉𝒂𝒗𝒆 𝒃𝒆𝒆𝒏 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝒔𝒊𝒏𝒄𝒆 𝑰 𝒘𝒂𝒔 15 𝒚𝒆𝒂𝒓𝒔 𝒐𝒍𝒅, 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒊𝒏𝒈 𝒘𝒆𝒃𝒔𝒊𝒕𝒆𝒔, 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔, 𝒂𝒏𝒅 𝒈𝒂𝒎𝒆𝒔 𝒘𝒉𝒊𝒍𝒆 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒍𝒚 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝒏𝒆𝒘 𝒊𝒅𝒆𝒂𝒔 𝒂𝒏𝒅 𝒕𝒖𝒓𝒏𝒊𝒏𝒈 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚 𝒊𝒏𝒕𝒐 𝒓𝒆𝒂𝒍 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔. 𝑰 𝒆𝒏𝒋𝒐𝒚 𝒄𝒉𝒂𝒍𝒍𝒆𝒏𝒈𝒆𝒔, 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒏𝒆𝒘 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔, 𝒂𝒏𝒅 𝒄𝒐𝒏𝒕𝒊𝒏𝒖𝒐𝒖𝒔𝒍𝒚 𝒄𝒓𝒆𝒂𝒕𝒊𝒏𝒈 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒏𝒆𝒘.
-
-</div>
-
-<br clear="left"/>
-
----
-
-<div align="center">
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdnbnUxazlpYXhzbzYxZzZkZ2VpazdtMWJ6cXcydGs5eGxxdjRiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/inzqXUJumB3KHQtevN/giphy.gif" width="700"/>
 
 </div>
 
