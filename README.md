@@ -1,30 +1,7 @@
-# GitHub Profile README
+Namaste 
 
-````md
-<div align="center">
+<img width="625" height="382" alt="image" src="https://github.com/user-attachments/assets/77c3c3e2-0837-4471-a610-09d72b84f427" />
 
-<img src="https://i.pinimg.com/736x/d1/ed/17/d1ed17d31d43e283aaff510a4d96c63f.jpg" width="100%"/>
-
-# ⚡ Erika Dellagnolo Morais
-
-### `Software Engineering Student` • `Backend Developer` • `Linux Enthusiast`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Building+ideas+through+code...;Backend+%26+Game+Developer;Linux+Enthusiast;Future+Software+Engineer;Always+learning+new+technologies" alt="Typing SVG" />
-
-</div>
-
----
-
-# 🧠 About Me
-
-```bash
-> whoami
-
-Name: Erika Dellagnolo Morais
-Role: Software Engineering Student
-Focus: Backend • Linux • Web Development
-Status: Building projects every day...
-````
 
 💻 Atualmente cursando:
 
@@ -156,18 +133,3 @@ class Erika:
 </div>
 ```
 
-## ✅ O que você precisa alterar
-
-Substitua:
-
-* `SEUUSUARIO` → seu username do GitHub
-* `SEULINK` → seu LinkedIn
-* `SEUEMAIL` → seu email profissional
-
-## 📌 Como colocar no GitHub
-
-1. Crie um repositório com o mesmo nome do seu GitHub
-2. Abra o arquivo `README.md`
-3. Cole o código acima
-4. Salve
-5. O perfil ficará estilizado automaticamente
