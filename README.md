@@ -1,6 +1,7 @@
 Namaste 
 
-<img width="625" height="382" alt="image" src="https://github.com/user-attachments/assets/77c3c3e2-0837-4471-a610-09d72b84f427" />
+<img width="500" height="284" alt="image" src="https://github.com/user-attachments/assets/ece40f7a-6584-4414-ab79-9e6b6ab8db0e" />
+
 
 
 💻 Atualmente cursando:
