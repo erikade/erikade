@@ -17,7 +17,7 @@
 💻 Software Engineering Student  
 🐧 Linux Enthusiast  
 ⚡ Backend Developer  
-🎮 Roblox Studio Developer  
+
 
 <br clear="left"/>
 
