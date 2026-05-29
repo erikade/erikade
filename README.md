@@ -1,6 +1,5 @@
-Namaste 
 
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/ac1ecf3a-1f10-4356-aa38-84d385428acb" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRsYmMzb28weXB3eDgwbW52eXZ6MjFxZHozc2xraTh4dHVncXI5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3O4r4NZkFIbSLINbX2/giphy.gif" width="100%"/>
 
 
 
