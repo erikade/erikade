@@ -5,7 +5,40 @@
 <div align="center">
 
 # 𝑵𝒂𝒎𝒂𝒔𝒕𝒆 🙏 𝒊´𝒎 𝑬́𝒓𝒊𝒌𝒂 𝑫𝒆𝒍𝒍𝒂𝒈𝒏𝒐𝒍𝒐
+<table>
+<tr>
 
+<td width="40%">
+
+<img src="https://media.giphy.com/media/3O4r4NZkFIbSLINbX2/giphy.gif" width="100%"/>
+
+</td>
+
+<td width="60%">
+
+# 𝑵𝒂𝒎𝒂𝒔𝒕𝒆 🙏 𝒊´𝒎 𝑬́𝒓𝒊𝒌𝒂 𝑫𝒆𝒍𝒍𝒂𝒈𝒏𝒐𝒍𝒐
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2"/>
+
+💻 Software Engineering Student  
+🐧 Linux Enthusiast  
+⚡ Backend Developer  
+🎮 Roblox Studio Developer  
+
+---
+
+### 🧠 About Me
+
+- Estudando Engenharia de Software
+- Apaixonada por tecnologia e Linux
+- Criando projetos e jogos
+- Aprendendo Backend e IA
+- Futuramente construir minha startup
+
+</td>
+
+</tr>
+</table>
 
 
 
